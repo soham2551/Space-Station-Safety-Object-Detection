@@ -18,7 +18,7 @@ You can access and interact with our live application, deployed on Render, at th
 
 For a detailed walkthrough of our methodology, challenges, and results, please view our full project report.
 
-**[➡️ View Our Full Project Report (Space_Station_Challenge_Report.pages)](https://github.com/soham2551/Space-Station-Safety-Object-Detection/blob/main/Space_Station_Challenge_Report.pages)
+➡️ View Our Full Project Report (https://github.com/soham2551/Space-Station-Safety-Object-Detection/blob/main/Space_Station_Challenge_Report.pages)
 ---
 
 ## 🏆 Final Results
