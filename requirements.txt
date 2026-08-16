@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+opencv-contrib-python-headless
+ultralytics
+protobuf==3.20.*
+
+
