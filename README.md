@@ -18,7 +18,7 @@ You can access and interact with our live application, deployed on Render, at th
 
 For a detailed walkthrough of our methodology, challenges, and results, please view our full project report.
 
-**[➡️ View Our Full Project Report (Space_Station_Challenge_Report.pages)**
+**[➡️ View Our Full Project Report (Space_Station_Challenge_Report.pages)]**
 
 ---
 
